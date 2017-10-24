@@ -11,9 +11,9 @@ name_code	accepted_name_code	order_c	family_c	genus_c	name	common_name_c	is_ende
 380047	380047	無尾目	樹蛙科	泛樹蛙屬	Polypedates megacephalus	斑腿樹蛙	0	1	1
 416147	380044	無尾目	樹蛙科	泛樹蛙屬	Polypedates robustus		0	0	0
 416149	380044	無尾目	樹蛙科		Rhacophorus (Rhacophorus) robustus		0	0	0
-380048	380048	無尾目	樹蛙科	世界樹蛙屬	Rhacophorus arvalis	諸羅樹蛙	1	0	0
+380048	380048	無尾目	公主樹蛙科	世界樹蛙屬	Rhacophorus arvalis	諸羅樹蛙	1	0	0
 380049	380049	無尾目	樹蛙科	樹蛙屬	Rhacophorus aurantiventris	橙腹樹蛙	1	0	0
 380050	380050	無尾目	樹蛙科	樹蛙屬	Rhacophorus moltrechti	莫氏樹蛙	1	0	0
-380051	380051	無尾目	樹蛙科	樹蛙屬	Rhacophorus prasinatus	翡翠樹蛙	1	0	0
+380051	380051	無尾目	王子樹蛙科	樹蛙屬	Rhacophorus prasinatus	翡翠樹蛙	1	0	0
 416148	380044	無尾目	樹蛙科	樹蛙屬	Rhacophorus robustus		0	0	0
 380052	380052	無尾目	樹蛙科	樹蛙屬	Rhacophorus taipeianus	臺北樹蛙	1	0	0
