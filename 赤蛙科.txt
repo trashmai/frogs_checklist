@@ -1,0 +1,53 @@
+name_code	accepted_name_code	order_c	family_c	genus_c	name	common_name_c	is_endemic	is_alien	is_invasive
+416185	429817	無尾目	赤蛙科		Amolops (Pseudoamolops) sauteri		0	0	0
+ITS-664914	416663	無尾目	赤蛙科	湍蛙屬	Amolops taiwanianus		0	0	0
+380029	380029	無尾目	赤蛙科	拇棘蛙屬	Babina adenopleura	腹斑蛙	0	0	0
+416138	416138	無尾目	赤蛙科	拇棘蛙屬	Babina okinavana	豎琴蛙	0	0	0
+416143	416138	無尾目	赤蛙科	拇棘蛙屬	Babina psaltes		0	0	0
+416656	416651	無尾目	赤蛙科		Hylarana (Hylarana) latouchii		0	0	0
+416135	380029	無尾目	赤蛙科		Hylarana (Nidirana) adenopleura		0	0	0
+416165	416165	無尾目	赤蛙科	水蛙屬	Hylarana guentheri	貢德氏赤蛙	0	0	0
+416651	416651	無尾目	赤蛙科	水蛙屬	Hylarana latouchii	拉都希氏赤蛙	0	0	0
+416658	416658	無尾目	赤蛙科	水蛙屬	Hylarana taipehensis	臺北赤蛙	0	0	0
+416137	380029	無尾目	赤蛙科		Hylorana adenopleura		0	0	0
+416653	416651	無尾目	赤蛙科		Hylorana latouchii		0	0	0
+416173	417669	無尾目	赤蛙科		Lithobates (Aquarana) catesbeianus		0	0	0
+417669	417669	無尾目	赤蛙科	牛蛙屬	Lithobates catesbeianus	美洲牛蛙	0	1	1
+416136	380029	無尾目	赤蛙科		Nidirana adenopleura		0	0	0
+416141	416138	無尾目	赤蛙科		Nidirana psaltes		0	0	0
+416666	416663	無尾目	赤蛙科		Odorrana (Odorrana) swinhoana		0	0	0
+416663	416663	無尾目	赤蛙科	臭蛙屬	Odorrana swinhoana	斯文豪氏赤蛙	1	0	0
+418420	418420	無尾目	赤蛙科	側褶蛙屬	Pelophylax fukienensis	金線蛙;福建側褶蛙;福建金線蛙	0	0	0
+385006	385006	無尾目	赤蛙科	赤蛙屬	Pseudoamolops multidenticulatus	多齒赤蛙	0	0	0
+380038	380038	無尾目	赤蛙科	赤蛙屬	Pseudoamolops sauteri	梭德氏赤蛙	0	0	0
+416183	429817	無尾目	赤蛙科		Pseudorana sauteri sauteri		0	0	0
+416171	417669	無尾目	赤蛙科		Rana (Aquarana) catesbeiana		0	0	0
+416655	416651	無尾目	赤蛙科		Rana (Hylarana) latouchii		0	0	0
+416182	429817	無尾目	赤蛙科		Rana (Hylarana) sauteri		0	0	0
+416660	416658	無尾目	赤蛙科		Rana (Hylarana) taipehensis		0	0	0
+416652	416651	無尾目	赤蛙科		Rana (Hylorana) latouchii		0	0	0
+416181	429817	無尾目	赤蛙科		Rana (Hylorana) sauteri		0	0	0
+416664	416663	無尾目	赤蛙科		Rana (Hylorana) swinhoana		0	0	0
+416142	416138	無尾目	赤蛙科		Rana (Laurasiarana) okinavana		0	0	0
+416134	380029	無尾目	赤蛙科		Rana (Nidirana) adenopleura		0	0	0
+416140	416138	無尾目	赤蛙科		Rana (Nidirana) psaltes		0	0	0
+416172	417669	無尾目	赤蛙科		Rana (Novirana) catesbeiana		0	0	0
+416184	429817	無尾目	赤蛙科		Rana (Pseudorana) sauteri		0	0	0
+416170	417669	無尾目	赤蛙科		Rana (Rana) catesbeiana		0	0	0
+416168	416165	無尾目	赤蛙科		Rana (Sylvirana) guentheri		0	0	0
+ITS-665254	380029	無尾目	赤蛙科	蛙屬	Rana adenopleura		0	0	0
+385004	416423	無尾目	赤蛙科	蛙屬	Rana cancrivora	海蛙;紅樹林蛙;食蟹蛙;海陸蛙	0	0	0
+380030	417669	無尾目	赤蛙科	蛙屬	Rana catesbeiana	牛蛙	0	1	0
+416166	416165	無尾目	赤蛙科	蛙屬	Rana elegans		0	0	0
+ac2011:7164100	418420	無尾目	赤蛙科	蛙屬	Rana fukienensis			0	0
+380031	416165	無尾目	赤蛙科	蛙屬	Rana guentheri	貢德氏赤蛙	0	0	0
+380033	416651	無尾目	赤蛙科	蛙屬	Rana latouchii	拉都希氏蛙	0	0	0
+380035	380035	無尾目	赤蛙科	蛙屬	Rana longicrus	長腳赤蛙	0	0	0
+416665	416663	無尾目	赤蛙科	蛙屬	Rana narina swinhoana		0	0	0
+416139	416138	無尾目	赤蛙科	蛙屬	Rana okinavana		0	0	0
+380037	416138	無尾目	赤蛙科	蛙屬	Rana psaltes	豎琴蛙	0	0	0
+416180	380038	無尾目	赤蛙科	蛙屬	Rana sauteri		1	0	0
+380039	416663	無尾目	赤蛙科	蛙屬	Rana swinhoana	斯文豪氏蛙	0	0	0
+380040	416658	無尾目	赤蛙科	蛙屬	Rana taipehensis	臺北赤蛙	0	0	0
+380039a	416663	無尾目	赤蛙科	蛙屬	Rana taiwaniana		0	0	0
+416657	416651	無尾目	赤蛙科		Sylvirana latouchii		0	0	0

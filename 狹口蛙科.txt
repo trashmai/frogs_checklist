@@ -1,0 +1,9 @@
+name_code	accepted_name_code	order_c	family_c	genus_c	name	common_name_c	is_endemic	is_alien	is_invasive
+380024	380024	無尾目	狹口蛙科	狹口蛙屬	Kaloula pulchra pulchra	亞洲錦蛙;花狹口蛙	0	1	1
+380025	380025	無尾目	狹口蛙科	姬蛙屬	Microhyla butleri	巴氏小雨蛙	0	0	0
+416175	416174	無尾目	狹口蛙科	姬蛙屬	Microhyla eremita		0	0	0
+416174	416174	無尾目	狹口蛙科	姬蛙屬	Microhyla fissipes	小雨蛙	0	0	0
+380026	380026	無尾目	狹口蛙科	姬蛙屬	Microhyla heymonsi	黑蒙西氏小雨蛙	0	0	0
+380027	416174	無尾目	狹口蛙科	姬蛙屬	Microhyla ornata	小雨蛙	0	0	0
+421727	380028	無尾目	狹口蛙科	小姬蛙屬	Micryletta inornata	史丹吉氏小雨蛙	0	0	0
+380028	380028	無尾目	狹口蛙科	小姬蛙屬	Micryletta steinegeri	史丹吉氏小雨蛙;臺灣娟蛙;史氏姬蛙	1	0	0

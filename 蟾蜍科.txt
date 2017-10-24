@@ -1,0 +1,24 @@
+name_code	accepted_name_code	order_c	family_c	genus_c	name	common_name_c	is_endemic	is_alien	is_invasive
+ITS-776025	417957	無尾目	蟾蜍科		Bombinator maculatus		0	0	0
+ITS-776022	417957	無尾目	蟾蜍科	蟾蜍屬	Bufo agua		0	0	0
+ITS-776027	417957	無尾目	蟾蜍科	蟾蜍屬	Bufo albicans		0	0	0
+ITS-585636	417778	無尾目	蟾蜍科	蟾蜍屬	Bufo anderssoni		0	0	0
+ITS-776030	417957	無尾目	蟾蜍科	蟾蜍屬	Bufo angustipes		0	0	0
+380021	380021	無尾目	蟾蜍科	蟾蜍屬	Bufo bankorensis	盤古蟾蜍	1	0	0
+ITS-776021	417957	無尾目	蟾蜍科	蟾蜍屬	Bufo brasiliensis		0	0	0
+ITS-776714	417778	無尾目	蟾蜍科	蟾蜍屬	Bufo crucifer phrimeri		0	0	0
+ITS-207164	417778	無尾目	蟾蜍科	蟾蜍屬	Bufo guttatus		0	0	0
+ITS-776713	417778	無尾目	蟾蜍科	蟾蜍屬	Bufo guttatus guttatus		0	0	0
+ITS-776028	417957	無尾目	蟾蜍科	蟾蜍屬	Bufo horribilis		0	0	0
+ITS-776023	417957	無尾目	蟾蜍科	蟾蜍屬	Bufo horridus		0	0	0
+ITS-776024	417957	無尾目	蟾蜍科	蟾蜍屬	Bufo humeralis		0	0	0
+ITS-776026	417957	無尾目	蟾蜍科	蟾蜍屬	Bufo lazarus		0	0	0
+417956	417957	無尾目	蟾蜍科	蟾蜍屬	Bufo marinus		0	1	1
+380022	416157	無尾目	蟾蜍科	蟾蜍屬	Bufo melanostictus	黑眶蟾蜍	0	0	0
+ITS-207178	417778	無尾目	蟾蜍科	蟾蜍屬	Bufo melini		0	0	0
+ITS-776029	417957	無尾目	蟾蜍科	蟾蜍屬	Bufo pithecodactylus		0	0	0
+ITS-776031	417957	無尾目	蟾蜍科		Chaunus marinus		0	0	0
+416157	416157	無尾目	蟾蜍科		Duttaphrynus melanostictus	黑眶蟾蜍	0	0	0
+ITS-207134	417957	無尾目	蟾蜍科		Rana marina		0	0	0
+ITS-775992	417778	無尾目	蟾蜍科		Rhaebo anderssoni		0	0	0
+ITS-776032	417957	無尾目	蟾蜍科	蜍屬	Rhinella marinus		0	0	0

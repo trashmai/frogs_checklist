@@ -1,0 +1,16 @@
+name_code	accepted_name_code	order_c	family_c	genus_c	name	common_name_c	is_endemic	is_alien	is_invasive
+416424	416423	無尾目	叉舌蛙科		Euphlyctis cancrivora		0	0	0
+416423	416423	無尾目	叉舌蛙科	陸蛙屬	Fejervarya cancrivora	海蛙	0	1	0
+380034	380034	無尾目	叉舌蛙科	陸蛙屬	Fejervarya limnocharis	澤蛙	0	0	0
+380042	416160	無尾目	叉舌蛙科	虎紋蛙屬	Hoplobatrachus chinensis	虎皮蛙	0	0	0
+416160	416160	無尾目	叉舌蛙科	虎紋蛙屬	Hoplobatrachus rugulosus	虎皮蛙	0	0	0
+416162	416160	無尾目	叉舌蛙科		Hydrostentor pantherinus		0	0	0
+380032	380032	無尾目	叉舌蛙科	大頭蛙屬	Limnonectes fujianensis	福建大頭蛙;古氏赤蛙	0	0	0
+416163	416160	無尾目	叉舌蛙科		Rana (Euphlyctis) rugulosa		0	0	0
+ITS-776170	416160	無尾目	叉舌蛙科		Rana burkilli		0	0	0
+416425	416423	無尾目	叉舌蛙科		Rana cancrivora cancrivora		0	0	0
+ITS-776168	416160	無尾目	叉舌蛙科		Rana chinensis		0	0	0
+423860	380034	無尾目	叉舌蛙科		Rana limnocharis			0	0
+416161	416160	無尾目	叉舌蛙科		Rana rugulosa		0	0	0
+416426	416423	無尾目	叉舌蛙科		Rana tigrina cancrivora		0	0	0
+416164	416160	無尾目	叉舌蛙科		Tigrina rugulosa		0	0	0
