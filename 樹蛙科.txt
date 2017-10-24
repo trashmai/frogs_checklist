@@ -1,7 +1,7 @@
 name_code	accepted_name_code	order_c	family_c	genus_c	name	common_name_c	is_endemic	is_alien	is_invasive
 380043	380043	無尾目	樹蛙科	溪樹蛙屬	Buergeria japonica	日本樹蛙	0	0	0
 432626	432626	無尾目	樹蛙科	溪樹蛙屬	Buergeria otai	太田樹蛙;太田氏樹蛙	1	0	0
-380044	380044	無尾目	樹蛙科	溪樹蛙屬	Buergeria robusta	褐樹蛙	1	0	0
+380044	380044	無尾目	樹蛙科	大溪樹蛙屬	Buergeria robusta	褐樹蛙	1	0	0
 423859	380046	無尾目	樹蛙科		Chirixalus idiootocus			0	0
 431333	431333	無尾目	樹蛙科	原指樹蛙屬	Kurixalus berylliniris	碧眼樹蛙	0	0	0
 380045	380045	無尾目	樹蛙科	原指樹蛙屬	Kurixalus eiffingeri	艾氏樹蛙	0	0	0
@@ -11,7 +11,7 @@ name_code	accepted_name_code	order_c	family_c	genus_c	name	common_name_c	is_ende
 380047	380047	無尾目	樹蛙科	泛樹蛙屬	Polypedates megacephalus	斑腿樹蛙	0	1	1
 416147	380044	無尾目	樹蛙科	泛樹蛙屬	Polypedates robustus		0	0	0
 416149	380044	無尾目	樹蛙科		Rhacophorus (Rhacophorus) robustus		0	0	0
-380048	380048	無尾目	樹蛙科	樹蛙屬	Rhacophorus arvalis	諸羅樹蛙	1	0	0
+380048	380048	無尾目	樹蛙科	世界樹蛙屬	Rhacophorus arvalis	諸羅樹蛙	1	0	0
 380049	380049	無尾目	樹蛙科	樹蛙屬	Rhacophorus aurantiventris	橙腹樹蛙	1	0	0
 380050	380050	無尾目	樹蛙科	樹蛙屬	Rhacophorus moltrechti	莫氏樹蛙	1	0	0
 380051	380051	無尾目	樹蛙科	樹蛙屬	Rhacophorus prasinatus	翡翠樹蛙	1	0	0
