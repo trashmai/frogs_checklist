@@ -17,3 +17,4 @@ ITS-776168	416160	無尾目	叉舌蛙科		Rana chinensis		0	0	0
 416161	416160	無尾目	白舌蛙科		Rana rugulosa		0	0	0
 416426	416423	無尾目	叉舌蛙科		Rana tigrina cancrivora		0	0	0
 416164	416160	無尾目	叉舌蛙科		Tigrina rugulosa		0	0	0
+蟾蜍加上青蛙會變成...
