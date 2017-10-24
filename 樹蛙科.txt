@@ -3,7 +3,7 @@ name_code	accepted_name_code	order_c	family_c	genus_c	name	common_name_c	is_ende
 432626	432626	無尾目	樹蛙科	溪樹蛙屬	Buergeria otai	太田樹蛙;太田氏樹蛙	1	0	0
 380044	380044	無尾目	樹蛙科	大溪樹蛙屬	Buergeria robusta	褐樹蛙	1	0	0
 423859	380046	無尾目	樹蛙科		Chirixalus idiootocus			0	0
-431333	431333	無尾目	樹蛙科	原指樹蛙屬	Kurixalus berylliniris	碧眼樹蛙	0	0	0
+431333	431333	無尾目	樹蛙科	肥油樹蛙屬	Kurixalus berylliniris	碧眼樹蛙	0	0	0
 380045	380045	無尾目	樹蛙科	原指樹蛙屬	Kurixalus eiffingeri	艾氏樹蛙	0	0	0
 380046	380046	無尾目	樹蛙科	原指樹蛙屬	Kurixalus idiootocus	面天樹蛙	1	0	0
 431334	431334	無尾目	樹蛙科	原指樹蛙屬	Kurixalus wangi	王氏樹蛙	0	0	0
