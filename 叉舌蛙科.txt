@@ -14,6 +14,6 @@ ITS-776170	416160	無尾目	叉舌蛙科		Rana burkilli		0	0	0
 416425	416423	無尾目	叉舌蛙科		Rana cancrivora cancrivora		0	0	0
 ITS-776168	416160	無尾目	叉舌蛙科		Rana chinensis		0	0	0
 423860	380998	無尾目	龍舌蘭科		Rana limnocharis			0	0
-416161	416160	無尾目	叉舌蛙科		Rana rugulosa		0	0	0
+416161	416160	無尾目	白舌蛙科		Rana rugulosa		0	0	0
 416426	416423	無尾目	叉舌蛙科		Rana tigrina cancrivora		0	0	0
 416164	416160	無尾目	叉舌蛙科		Tigrina rugulosa		0	0	0
